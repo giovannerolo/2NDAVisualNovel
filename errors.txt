@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 40: Line is indented, but the preceding jump statement statement does not expect a block. Please check this line's indentation.
+    "Tu volta pra casa e o jogo acaba."
+    ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Wed Jun 03 18:55:16 2020
